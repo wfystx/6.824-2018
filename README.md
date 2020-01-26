@@ -5,7 +5,7 @@ My implementation of labs：
 - [x] Lab 1: MapReduce
 - [ ] Lab 2: Raft  
     - [x] Part A: Implement leader election and heartbeats
-    - [ ] Part B: Implement the leader and follower code to append new log entries
+    - [x] Part B: Implement the leader and follower code to append new log entries
     - [ ] Part C: Complete the functions persist() and readPersist() in raft.go by adding code to save and restore persistent state
 - [ ] Lab 3: Fault-tolerant Key/Value Service
     - [ ] Part A: Key/value service without log compaction
