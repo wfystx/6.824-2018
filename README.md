@@ -1,7 +1,7 @@
 # MIT-6.824-2018
 Class page: http://nil.csail.mit.edu/6.824/2018/
 
-Below is my implementation of labs：
+My implementation of labs：
 - [x] Lab 1: MapReduce
 - [x] Lab 2: Raft  
     - [x] Part A: Implement leader election and heartbeats
